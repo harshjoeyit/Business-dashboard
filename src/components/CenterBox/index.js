@@ -8,7 +8,7 @@ function CenterBoxTitleBar({ title, }) {
             <p>{ title }</p>
             <img 
                 src={ dots } 
-                alt="stats image" 
+                alt="stats" 
             />
         </div>
     )
@@ -25,7 +25,7 @@ function CenterBoxData({ heading, value, status, image }) {
             <div className="image-container">
                 <img 
                     src={ image } 
-                    alt="stats image" 
+                    alt="stats" 
                 />
             </div>
         </div>

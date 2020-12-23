@@ -2,7 +2,6 @@ import React from 'react'
 import './style.css'
 import ham from '../images/ham.png'
 import { Button } from '../Utils'
-import Dashboard from '.'
 
 function TopNav() {
     return (
@@ -10,7 +9,7 @@ function TopNav() {
         <header className='topnav-container'> 
             <div className="logo">
                 <h2>
-                    <i class="fa fa-superpowers" aria-hidden="true"></i>
+                    <i className="fa fa-superpowers" aria-hidden="true"></i>
                     Finacular
                 </h2>
             </div>

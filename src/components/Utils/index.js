@@ -5,7 +5,7 @@ export function Button({ text, iconClass }) {
     return (
         <div className='button-container'>
             <button> 
-                <i class={`fa ${iconClass}`} aria-hidden="true"></i>
+                <i className={`fa ${iconClass}`} aria-hidden="true"></i>
                 { text } 
             </button>
         </div>
