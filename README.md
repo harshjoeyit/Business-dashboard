@@ -1,2 +1,2 @@
-### Responsive Dashboard for Business-websites 
+### Responsive Dashboard using charts for Business-websites 
 Live at: https://finacular-dash.herokuapp.com/
