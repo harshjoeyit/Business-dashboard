@@ -1,2 +1,5 @@
-### Responsive Dashboard using charts for Business-websites 
-Live at: https://finacular-dash.herokuapp.com/
+## Responsive Dashboard using charts for Business-websites 
+built with :hearts: and React
+
+### Live at
+[fin-dash](https://finacular-dash.herokuapp.com/)
